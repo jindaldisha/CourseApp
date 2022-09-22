@@ -1,0 +1,14 @@
+.server-tag{
+    text-align: center;
+    padding: 2px;
+}
+
+.online{
+    background-color:rgb(71, 145, 71);
+    color: white;
+}
+
+.offline{
+    background-color: rgb(183, 70, 70);
+    color: white;
+}
